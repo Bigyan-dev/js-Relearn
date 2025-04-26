@@ -15,3 +15,4 @@ myobject.gretting = function(){
 
 console.log(myobject)
 myobject.gretting()
+
